@@ -24,4 +24,5 @@ gfmodel/proba/proba.py
 修改的部分包括3个路径，mo选择模型：
 
 ![Image text](https://github.com/themostnewone/2019ccf/blob/master/img-folder/3.png)
+
 最后执行blend.py可在当前路径生成submit.csv提交。
