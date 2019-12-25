@@ -28,6 +28,7 @@ testing:存放数据集Test_data文件夹与submission_template.csv
 gfmodel/insightface/arcface.py
 gfmodel/lvface/lvface.py
 gfmodel/proba/proba.py
+
 修改的部分包括3个路径，mo选择模型：
 
 ![Image text](https://github.com/themostnewone/2019ccf/blob/master/img-folder/3.png)
