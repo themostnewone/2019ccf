@@ -1,7 +1,10 @@
 # 2019CCF
 2019CCF BDCI-多人种人脸识别-top1方案与部分代码
+
 方案PPT讲解
+
 https://discussion.datafountain.cn/questions/2244?new=0
+
 如果觉得对你有用顺手点个star吧
 
 ## 压缩包格式：
