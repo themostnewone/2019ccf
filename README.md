@@ -10,6 +10,7 @@
 
 ## 代码文件夹结构：
 ![Image text](https://github.com/themostnewone/2019ccf/blob/master/img-folder/2.png)
+
 其中各文件夹：
 blendsub:初始空文件夹，存放每个模型产生的概率文件
 gfmodel:里面存放了3种模型，每个文件夹里面存放对应的预训练模型和相关代码
@@ -21,5 +22,6 @@ gfmodel/insightface/arcface.py
 gfmodel/lvface/lvface.py
 gfmodel/proba/proba.py
 修改的部分包括3个路径，mo选择模型：
+
 ![Image text](https://github.com/themostnewone/2019ccf/blob/master/img-folder/3.png)
 最后执行blend.py可在当前路径生成submit.csv提交。
