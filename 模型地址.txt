@@ -1,0 +1,19 @@
+https://pan.baidu.com/s/1wuRTf2YIsKt76TxFufsRNA
+模型下载后放到gfmodel/insightface/models/model-r100/
+https://pan.baidu.com/s/1mj6X7MK
+模型下载后放到gfmodel/insightface/models/model-r50/
+https://pan.baidu.com/s/1jKahEXw
+模型下载后放到gfmodel/insightface/models/model-r34/
+https://pan.baidu.com/s/1If28BkHde4fiuweJrbicVA
+模型下载后放到gfmodel/insightface/models/model-m/
+
+
+https://pan.baidu.com/s/18BSUeA1bpAeRWTprtHgX9w#list/path=%2Fbh-ir50
+https://pan.baidu.com/s/1L8yOF1oZf6JHfeY9iN59Mg#list/path=%2Fms1m-ir50
+https://pan.baidu.com/s/19c2_qdGeLo3CEiSSQztUeA#list/path=%2Fms1m-ir152  pw:y6ya
+3个模型下载后都放到gfmodel/lvface/lvmodel/
+
+https://drive.google.com/open?id=1BeTUYnc__u1_cYEKoXqfGDQjdk2TChoD
+模型下载后放到gfmodel/proba/PFE_sphere64_casia_am/
+https://drive.google.com/open?id=1R-sl5vaxWheyQBpgtONiSH5Qt4153Tl3
+模型下载后放到gfmodel/proba/PFE_sphere64_msarcface_am/
