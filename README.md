@@ -1,9 +1,9 @@
 # 2019ccf
 2019CCF BDCI-多人种人脸识别-top1方案与部分代码
 压缩包格式：
-![Image text](https://raw.github.com/themostnewone/repositpry/master/2019ccf/img-folder/1.png)
-![add image](https://github.com/themostnewone/master/2019ccf/image-folder/1.png)
 
+![Image text](https://github.com/themostnewone/2019ccf/blob/master/img-folder/1.png)
+![add image](https://github.com/themostnewone/master/2019ccf/image-folder/1.png)
 ![add](https://github.com/themostnewone/2019ccf/blob/master/image-folder/1.png)
 
 
