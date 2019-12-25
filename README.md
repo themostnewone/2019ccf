@@ -11,9 +11,10 @@
 ## 代码文件夹结构：
 ![Image text](https://github.com/themostnewone/2019ccf/blob/master/img-folder/2.png)
 
-其中各文件夹：
 blendsub:初始空文件夹，存放每个模型产生的概率文件
+
 gfmodel:里面存放了3种模型，每个文件夹里面存放对应的预训练模型和相关代码
+
 testing:存放数据集Test_data文件夹与submission_template.csv
 
 ## 操作步骤：
