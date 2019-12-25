@@ -4,6 +4,9 @@
 ![Image text](https://raw.github.com/themostnewone/repositpry/master/2019ccf/img-folder/1.png)
 ![add image](https://github.com/themostnewone/master/2019ccf/image-folder/1.png)
 
+![add](https://github.com/themostnewone/2019ccf/blob/master/image-folder/1.png)
+
+
 按照 环境要求.txt 安装环境
 按照 模型地址.txt 下载预训练模型到对应文件夹。
 
