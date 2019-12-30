@@ -35,9 +35,6 @@ du10.columns=['1','2']
 du11.columns=['1','2']
 du12.columns=['1','2']
 
-
-
-
 #最终权重
 a1=0.3
 a2= 0.15
@@ -51,8 +48,6 @@ a9=0.275
 a10=0.225
 a11=0.15
 a12=0.3
-
-
 
 du1['2']=du1['2']*a1+du2['2']*a2+du3['2']*a3+du4['2']*a4+du5['2']*a5+du6['2']*a6+du7['2']*a7+du8['2']*a8+du9['2']*a9+du10['2']*a10+du11['2']*a11+du12['2']*a12
 du1[['1','2']].to_csv(path+'submit.csv',columns=None,header=None,index=None,sep=',')
